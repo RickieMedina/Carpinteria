@@ -1,0 +1,47 @@
+D:\Oscar\UTN\ProgramacionII\2021\2Cuatrimestre\Carpinteria\bin\Debug\Carpinteria.exe.config
+D:\Oscar\UTN\ProgramacionII\2021\2Cuatrimestre\Carpinteria\bin\Debug\Carpinteria.exe
+D:\Oscar\UTN\ProgramacionII\2021\2Cuatrimestre\Carpinteria\bin\Debug\Carpinteria.pdb
+D:\Oscar\UTN\ProgramacionII\2021\2Cuatrimestre\Carpinteria\obj\Debug\Carpinteria.csprojAssemblyReference.cache
+D:\Oscar\UTN\ProgramacionII\2021\2Cuatrimestre\Carpinteria\obj\Debug\Carpinteria.Properties.Resources.resources
+D:\Oscar\UTN\ProgramacionII\2021\2Cuatrimestre\Carpinteria\obj\Debug\Carpinteria.csproj.GenerateResource.cache
+D:\Oscar\UTN\ProgramacionII\2021\2Cuatrimestre\Carpinteria\obj\Debug\Carpinteria.csproj.CoreCompileInputs.cache
+D:\Oscar\UTN\ProgramacionII\2021\2Cuatrimestre\Carpinteria\obj\Debug\Carpinteria.exe
+D:\Oscar\UTN\ProgramacionII\2021\2Cuatrimestre\Carpinteria\obj\Debug\Carpinteria.pdb
+D:\Oscar\UTN\ProgramacionII\2021\2Cuatrimestre\Carpinteria\obj\Debug\Carpinteria.Formularios.FrmNuevoPresupuesto.resources
+D:\Oscar\UTN\ProgramacionII\2021\2Cuatrimestre\Carpinteria\obj\Debug\Carpinteria.Formularios.FrmPrincipal.resources
+C:\Users\PC1\Downloads\A1-Programación\2CUATRI\Carpinteria\Carpinteria\bin\Debug\Carpinteria.exe.config
+C:\Users\PC1\Downloads\A1-Programación\2CUATRI\Carpinteria\Carpinteria\bin\Debug\Carpinteria.exe
+C:\Users\PC1\Downloads\A1-Programación\2CUATRI\Carpinteria\Carpinteria\bin\Debug\Carpinteria.pdb
+C:\Users\PC1\Downloads\A1-Programación\2CUATRI\Carpinteria\Carpinteria\obj\Debug\Carpinteria.csprojAssemblyReference.cache
+C:\Users\PC1\Downloads\A1-Programación\2CUATRI\Carpinteria\Carpinteria\obj\Debug\Carpinteria.Formularios.FrmNuevoPresupuesto.resources
+C:\Users\PC1\Downloads\A1-Programación\2CUATRI\Carpinteria\Carpinteria\obj\Debug\Carpinteria.Formularios.FrmPrincipal.resources
+C:\Users\PC1\Downloads\A1-Programación\2CUATRI\Carpinteria\Carpinteria\obj\Debug\Carpinteria.Properties.Resources.resources
+C:\Users\PC1\Downloads\A1-Programación\2CUATRI\Carpinteria\Carpinteria\obj\Debug\Carpinteria.csproj.GenerateResource.cache
+C:\Users\PC1\Downloads\A1-Programación\2CUATRI\Carpinteria\Carpinteria\obj\Debug\Carpinteria.csproj.CoreCompileInputs.cache
+C:\Users\PC1\Downloads\A1-Programación\2CUATRI\Carpinteria\Carpinteria\obj\Debug\Carpinteria.exe
+C:\Users\PC1\Downloads\A1-Programación\2CUATRI\Carpinteria\Carpinteria\obj\Debug\Carpinteria.pdb
+C:\Users\PC1\Downloads\A1-Programación\2CUATRI\Carpinteria\Carpinteria\obj\Debug\Carpinteria.Formularios.FrmConsulta.resources
+C:\Users\Terminal\Documents\Tup\2021\Progra\ProyectosCarpinteria\Carpinteria\Carpinteria\obj\Debug\Carpinteria.csprojAssemblyReference.cache
+C:\Users\Terminal\Documents\Tup\2021\Progra\ProyectosCarpinteria\Carpinteria\Carpinteria\obj\Debug\Carpinteria.Formularios.FrmConsulta.resources
+C:\Users\Terminal\Documents\Tup\2021\Progra\ProyectosCarpinteria\Carpinteria\Carpinteria\obj\Debug\Carpinteria.Formularios.FrmNuevoPresupuesto.resources
+C:\Users\Terminal\Documents\Tup\2021\Progra\ProyectosCarpinteria\Carpinteria\Carpinteria\obj\Debug\Carpinteria.Formularios.FrmPrincipal.resources
+C:\Users\Terminal\Documents\Tup\2021\Progra\ProyectosCarpinteria\Carpinteria\Carpinteria\obj\Debug\Carpinteria.Properties.Resources.resources
+C:\Users\Terminal\Documents\Tup\2021\Progra\ProyectosCarpinteria\Carpinteria\Carpinteria\obj\Debug\Carpinteria.csproj.GenerateResource.cache
+C:\Users\Terminal\Documents\Tup\2021\Progra\ProyectosCarpinteria\Carpinteria\Carpinteria\obj\Debug\Carpinteria.csproj.CoreCompileInputs.cache
+C:\Users\Terminal\Documents\Tup\2021\Progra\ProyectosCarpinteria\Carpinteria\Carpinteria\obj\Debug\Carpinteria.exe
+C:\Users\Terminal\Documents\Tup\2021\Progra\ProyectosCarpinteria\Carpinteria\Carpinteria\obj\Debug\Carpinteria.pdb
+C:\Users\Terminal\Documents\Tup\2021\Progra\ProyectosCarpinteria\Carpinteria\Carpinteria\bin\Debug\Carpinteria.exe.config
+C:\Users\Terminal\Documents\Tup\2021\Progra\ProyectosCarpinteria\Carpinteria\Carpinteria\bin\Debug\Carpinteria.exe
+C:\Users\Terminal\Documents\Tup\2021\Progra\ProyectosCarpinteria\Carpinteria\Carpinteria\bin\Debug\Carpinteria.pdb
+C:\Users\PC1\Downloads\A1-Programación\2CUATRI\program\Nueva carpeta\ProyectosCarpinteria\Carpinteria\Carpinteria\bin\Debug\Carpinteria.exe.config
+C:\Users\PC1\Downloads\A1-Programación\2CUATRI\program\Nueva carpeta\ProyectosCarpinteria\Carpinteria\Carpinteria\bin\Debug\Carpinteria.exe
+C:\Users\PC1\Downloads\A1-Programación\2CUATRI\program\Nueva carpeta\ProyectosCarpinteria\Carpinteria\Carpinteria\bin\Debug\Carpinteria.pdb
+C:\Users\PC1\Downloads\A1-Programación\2CUATRI\program\Nueva carpeta\ProyectosCarpinteria\Carpinteria\Carpinteria\obj\Debug\Carpinteria.csprojAssemblyReference.cache
+C:\Users\PC1\Downloads\A1-Programación\2CUATRI\program\Nueva carpeta\ProyectosCarpinteria\Carpinteria\Carpinteria\obj\Debug\Carpinteria.Formularios.FrmConsulta.resources
+C:\Users\PC1\Downloads\A1-Programación\2CUATRI\program\Nueva carpeta\ProyectosCarpinteria\Carpinteria\Carpinteria\obj\Debug\Carpinteria.Formularios.FrmNuevoPresupuesto.resources
+C:\Users\PC1\Downloads\A1-Programación\2CUATRI\program\Nueva carpeta\ProyectosCarpinteria\Carpinteria\Carpinteria\obj\Debug\Carpinteria.Formularios.FrmPrincipal.resources
+C:\Users\PC1\Downloads\A1-Programación\2CUATRI\program\Nueva carpeta\ProyectosCarpinteria\Carpinteria\Carpinteria\obj\Debug\Carpinteria.Properties.Resources.resources
+C:\Users\PC1\Downloads\A1-Programación\2CUATRI\program\Nueva carpeta\ProyectosCarpinteria\Carpinteria\Carpinteria\obj\Debug\Carpinteria.csproj.GenerateResource.cache
+C:\Users\PC1\Downloads\A1-Programación\2CUATRI\program\Nueva carpeta\ProyectosCarpinteria\Carpinteria\Carpinteria\obj\Debug\Carpinteria.csproj.CoreCompileInputs.cache
+C:\Users\PC1\Downloads\A1-Programación\2CUATRI\program\Nueva carpeta\ProyectosCarpinteria\Carpinteria\Carpinteria\obj\Debug\Carpinteria.exe
+C:\Users\PC1\Downloads\A1-Programación\2CUATRI\program\Nueva carpeta\ProyectosCarpinteria\Carpinteria\Carpinteria\obj\Debug\Carpinteria.pdb
